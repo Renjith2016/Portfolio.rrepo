@@ -1,0 +1,11 @@
+#certi{
+    background-image: linear-gradient(to top, rgb(7, 6, 7),rgba(32, 244, 208, 0.938));
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#ig:hover{
+   transition: .9s;
+    opacity: 100%;
+    box-shadow: 9px 9px 9px rgb(238, 65, 12);
+}
+

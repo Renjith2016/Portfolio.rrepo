@@ -1,0 +1,14 @@
+#TEXT {
+    text-decoration: none;
+    color: white;
+    
+}
+
+.co:hover {
+    background-image: linear-gradient(to top right, blue, pink);
+    opacity: 50%;
+}
+
+#top{
+    text-decoration: none;
+}

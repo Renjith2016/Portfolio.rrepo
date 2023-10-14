@@ -1,0 +1,21 @@
+#COL{
+    border-top: 6px solid transparent;
+    border-image: linear-gradient(0.25turn, rgb(65, 214, 192), rgb(227, 76, 50), rgba(56,2,155,0));
+    border-image-slice: 1;
+}
+#COL1{
+    border-top: 6px solid transparent;
+    border-image: linear-gradient(0.25turn, rgb(65, 214, 192),rgb(227, 76, 50), rgba(56,2,155,0));
+    border-image-slice: 1;
+   
+}
+#COL2{
+    border-top: 6px solid transparent;
+    border-image: linear-gradient(0.25turn, rgb(65, 214, 192), rgb(227, 76, 50), rgba(56,2,155,0));
+    border-image-slice: 1;
+}
+#COL3{
+    border-top: 6px solid transparent;
+    border-image: linear-gradient(0.25turn, rgb(65, 214, 192), rgb(227, 76, 50), rgba(56,2,155,0));
+    border-image-slice: 1;
+}

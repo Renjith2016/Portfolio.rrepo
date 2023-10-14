@@ -1,0 +1,12 @@
+#con{
+    background-image: linear-gradient(to top, rgb(22, 21, 21),rgba(233, 146, 254, 0.938));
+
+}
+#con1:hover{
+    box-shadow: 9px 9px 9px red;
+    transition: .9s;
+}
+
+#foot{
+    background-image: linear-gradient(to right, rgb(85, 149, 164),rgba(233, 146, 254, 0.938));
+}
